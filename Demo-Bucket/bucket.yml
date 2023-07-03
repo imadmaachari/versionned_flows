@@ -1,5 +1,5 @@
 flows:
-  951528e0-98bc-4218-b567-c98d347cb7bd: {ver: 1, file: Flow1.snapshot, comments: '',
-    author: anonymous, created: 1688391394887, flowName: Flow1, flowDesc: ''}
+  951528e0-98bc-4218-b567-c98d347cb7bd: {ver: 2, file: Flow1.snapshot, comments: Rename
+      processor, author: anonymous, created: 1688391429280, flowName: Flow1, flowDesc: ''}
 layoutVer: 1
 bucketId: 653deb26-6dc1-4d56-8a8b-4f423eab7e00

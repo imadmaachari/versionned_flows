@@ -37,7 +37,7 @@
             "groupId" : "c7927b67-e0cf-3831-8f95-a0bbc2bd03bb",
             "id" : "a4d67fc0-3cf4-3f0f-b1f5-af2266aa2235",
             "instanceIdentifier" : "01881002-dddf-1ccb-2a42-e9d7abe0d545",
-            "name" : "Get CSV File",
+            "name" : "Read csv File",
             "type" : "PROCESSOR"
           },
           "zIndex" : 0
@@ -164,7 +164,7 @@
           "identifier" : "a4d67fc0-3cf4-3f0f-b1f5-af2266aa2235",
           "instanceIdentifier" : "01881002-dddf-1ccb-2a42-e9d7abe0d545",
           "maxBackoffPeriod" : "10 mins",
-          "name" : "Get CSV File",
+          "name" : "Read csv File",
           "penaltyDuration" : "30 sec",
           "position" : {
             "x" : 272.0,

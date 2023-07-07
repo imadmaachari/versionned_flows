@@ -37,7 +37,7 @@
             "groupId" : "1fde2518-a6b2-3cf6-aa15-b8aeb71e4680",
             "id" : "fae1712e-112e-32e3-8ee1-ba751291a104",
             "instanceIdentifier" : "c1774b8b-a171-392f-9e8f-1a635fda5680",
-            "name" : "GetFile",
+            "name" : "GetFileS",
             "type" : "PROCESSOR"
           },
           "zIndex" : 0
@@ -164,7 +164,7 @@
           "identifier" : "fae1712e-112e-32e3-8ee1-ba751291a104",
           "instanceIdentifier" : "c1774b8b-a171-392f-9e8f-1a635fda5680",
           "maxBackoffPeriod" : "10 mins",
-          "name" : "GetFile",
+          "name" : "GetFileS",
           "penaltyDuration" : "30 sec",
           "position" : {
             "x" : 272.0,
